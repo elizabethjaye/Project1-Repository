@@ -1,3 +1,14 @@
 1) https://www.zillow.com/research/data/
+
 2) https://www.kaggle.com/zillow/zecon/home
+
 3) https://www.programmableweb.com/category/real%20estate/apis?category=202
+
+4) (Availability) MLS Historic Count of Active Listings - 2014-2019 monthly - .csv
+5) (Availability) Historic sales by year - 2013-2019 monthly - .csv
+6) (Affordability) Historic Sales Price Trend - 2009-2019 monthly - .csv
+7) (Demographic) (Population estimates 2013-2017 yearly- API
+8) HUD Neighborhood Mapping Tool - 
+9) (Demographic) (Affordability) American Community Survey 1-Year Supplemental Data (2014 - 2017) - API
+10
+
