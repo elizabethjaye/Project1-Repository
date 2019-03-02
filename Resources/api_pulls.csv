@@ -1,9 +1,9 @@
 Formal_Name,Label_Name,2017_Variable,2016_Variable,2015_Variable,2014_Variable,2013_Variable
 Estimate!!HOUSEHOLDS BY TYPE!!Total households,Households,DP02_0001E,DP02_0001E,DP02_0001E,DP02_0001E,DP02_0001E
 Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),Households (Family),DP02_0002E,DP02_0002E,DP02_0002E,DP02_0002E,DP02_0002E
-Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,Households (Non-Family),DP02_0010E,,,,
-Estimate!!HOUSEHOLDS BY TYPE!!Average household size,Average Household Size,DP02_0015E,,,,
-Estimate!!HOUSEHOLDS BY TYPE!!Average family size,Average Family Size,DP02_0016E,,,,
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,Households (Non-Family),DP02_0010E,DP02_0010E,DP02_0010E,DP02_0010E,DP02_0010E
+Estimate!!HOUSEHOLDS BY TYPE!!Average household size,Average Household Size,DP02_0015E,DP02_0015E,DP02_0015E,DP02_0015E,DP02_0015E
+Estimate!!HOUSEHOLDS BY TYPE!!Average family size,Average Family Size,DP02_0016E,DP02_0016E,DP02_0016E,DP02_0016E,DP02_0016E
 Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,Number of Higher Ed Enrolled,DP02_0057E,DP02_0057E,DP02_0057E,DP02_0057E,DP02_0057E
 "Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",Education of Some College - No Degree Attained,DP02_0062E,DP02_0062E,DP02_0062E,DP02_0062E,DP02_0062E
 Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,Education of Associate's Degree Attained,DP02_0063E,DP02_0063E,DP02_0063E,DP02_0063E,DP02_0063E
@@ -11,10 +11,10 @@ Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degre
 Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,Education of Graduate or Professional Degree Attained,DP02_0065E,DP02_0065E,DP02_0065E,DP02_0065E,DP02_0065E
 Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),Median Household Income (in dollars),DP03_0062E,DP03_0062E,DP03_0062E,DP03_0062E,DP03_0062E
 Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),Mean Household Income (in dollars),DP03_0063E,DP03_0063E,DP03_0063E,DP03_0063E,DP03_0063E
-Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),Median Family Income (in dollars),DP03_0086E,,,,
-Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),Mean Family Income (in dollars),DP03_0087E,,,,
-Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),Median Non-Family Income (in dollars),DP03_0090E,,,,
-Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),Mean Non-Family Income (in dollars),DP03_0091E,,,,
+Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),Median Family Income (in dollars),DP03_0086E,DP03_0086E,DP03_0086E,DP03_0086E,DP03_0086E
+Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),Mean Family Income (in dollars),DP03_0087E,DP03_0087E,DP03_0087E,DP03_0087E,DP03_0087E
+Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),Median Non-Family Income (in dollars),DP03_0090E,DP03_0090E,DP03_0090E,DP03_0090E,DP03_0090E
+Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),Mean Non-Family Income (in dollars),DP03_0091E,DP03_0091E,DP03_0091E,DP03_0091E,DP03_0091E
 Estimate!!SEX AND AGE!!20 to 24 years,Age of 20 to 24 years,DP05_0009E,DP05_0008E,DP05_0008E,DP05_0008E,DP05_0008E
 Estimate!!SEX AND AGE!!25 to 34 years,Age of 25 to 34 years,DP05_0010E,DP05_0009E,DP05_0009E,DP05_0009E,DP05_0009E
 Estimate!!SEX AND AGE!!35 to 44 years,Age of 35 to 44 years,DP05_0011E,DP05_0010E,DP05_0010E,DP05_0010E,DP05_0010E
