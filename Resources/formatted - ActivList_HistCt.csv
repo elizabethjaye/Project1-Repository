@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 771cb31befeb3bcc6a3dd12a9ce0a590836642d2
 =======
 >>>>>>> 771cb31befeb3bcc6a3dd12a9ce0a590836642d2
 Year,Property Type,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,yrTot_avail,yr_avg_avail
@@ -22,6 +25,7 @@ Year,Property Type,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,yrTot_avail,y
 2018,Both,"5,898","5,796","5,699","5,774","5,900","6,071","6,209","6,392","6,707","6,946","6,899","6,439","74,730","6,228"
 2019,Both,"6,547","1,394","1,395","1,396","1,397","1,398","1,399","1,400","1,401","1,402","1,403","1,404","21,936","1,828"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Year,Property Type,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,yrTot_avail,yr_avg_avail
 2014,Private,"5,956","5,873","5,621","5,416","6,300","6,925","7,249","7,295","7,485","7,587","7,303","7,127","80,137","6,678"
@@ -43,5 +47,7 @@ Year,Property Type,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,yrTot_avail,y
 2018,Both,"5,898","5,796","5,699","5,774","5,900","6,071","6,209","6,392","6,707","6,946","6,899","6,439","74,730","6,228"
 2019,Both,"6,547","1,394","1,395","1,396","1,397","1,398","1,399","1,400","1,401","1,402","1,403","1,404","21,936","1,828"
 >>>>>>> master
+=======
+>>>>>>> 771cb31befeb3bcc6a3dd12a9ce0a590836642d2
 =======
 >>>>>>> 771cb31befeb3bcc6a3dd12a9ce0a590836642d2
