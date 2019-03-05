@@ -1,4 +1,4 @@
-Formal_Name,Label_Name,2017_Variable,2016_Variable,2015_Variable,2014_Variable
+Formal_Name,Label_Name,2014_Variable,2015_Variable,2016_Variable,2017_Variable
 Estimate!!HOUSEHOLDS BY TYPE!!Total households,Households,DP02_0001E,DP02_0001E,DP02_0001E,DP02_0001E
 Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),Households (Family),DP02_0002E,DP02_0002E,DP02_0002E,DP02_0002E
 Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,Households (Non-Family),DP02_0010E,DP02_0010E,DP02_0010E,DP02_0010E
@@ -15,23 +15,20 @@ Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Me
 Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),Mean Family Income (in dollars),DP03_0087E,DP03_0087E,DP03_0087E,DP03_0087E
 Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),Median Non-Family Income (in dollars),DP03_0090E,DP03_0090E,DP03_0090E,DP03_0090E
 Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),Mean Non-Family Income (in dollars),DP03_0091E,DP03_0091E,DP03_0091E,DP03_0091E
-Estimate!!SEX AND AGE!!20 to 24 years,Age of 20 to 24 years,DP05_0009E,DP05_0008E,DP05_0008E,DP05_0008E
-Estimate!!SEX AND AGE!!25 to 34 years,Age of 25 to 34 years,DP05_0010E,DP05_0009E,DP05_0009E,DP05_0009E
-Estimate!!SEX AND AGE!!35 to 44 years,Age of 35 to 44 years,DP05_0011E,DP05_0010E,DP05_0010E,DP05_0010E
-Estimate!!SEX AND AGE!!45 to 54 years,Age of 45 to 54 years,DP05_0012E,DP05_0011E,DP05_0011E,DP05_0011E
-Estimate!!SEX AND AGE!!55 to 59 years,Age of 55 to 59 years,DP05_0013E,DP05_0012E,DP05_0012E,DP05_0012E
-Estimate!!SEX AND AGE!!60 to 64 years,Age of 60 to 64 years,DP05_0014E,DP05_0013E,DP05_0013E,DP05_0013E
-Estimate!!SEX AND AGE!!65 to 74 years,Age of 65 to 74 years,DP05_0015E,DP05_0014E,DP05_0014E,DP05_0014E
-Estimate!!SEX AND AGE!!75 to 84 years,Age of 75 to 84 years,DP05_0016E,DP05_0015E,DP05_0015E,DP05_0015E
-Estimate!!SEX AND AGE!!85 years and over,Age of 85 years and over,DP05_0017E,DP05_0016E,DP05_0016E,DP05_0016E
-Estimate!!RACE!!One race!!White,Race - White,DP05_0037E,DP05_0032E,DP05_0032E,DP05_0032E
-Estimate!!RACE!!One race!!Black or African American,Race - Black or African American,DP05_0038E,DP05_0033E,DP05_0033E,DP05_0033E
-Estimate!!RACE!!One race!!American Indian and Alaska Native,Race - American Indian and Alaska Native,DP05_0039E,DP05_0034E,DP05_0034E,DP05_0034E
-Estimate!!RACE!!One race!!Asian,Race - Asian,DP05_0044E,DP05_0039E,DP05_0039E,DP05_0039E
-Estimate!!RACE!!One race!!Native Hawaiian and Other Pacific Islander,Race - Native Hawaiian and Other Pacific Islander,DP05_0052E,DP05_0047E,DP05_0047E,DP05_0047E
-Estimate!!RACE!!One race!!Some other race,Race - Other,DP05_0057E,DP05_0052E,DP05_0052E,DP05_0052E
-Estimate!!RACE!!Two or more races!!White and Black or African American,Race - White and Black or African American,DP05_0059E,DP05_0054E,DP05_0054E,DP05_0054E
-Estimate!!RACE!!Two or more races!!White and American Indian and Alaska Native,Race - White and American Indian and Alaska Native,DP05_0060E,DP05_0055E,DP05_0055E,DP05_0055E
-Estimate!!RACE!!Two or more races!!White and Asian,Race - White and Asian,DP05_0061E,DP05_0056E,DP05_0056E,DP05_0056E
-Estimate!!RACE!!Two or more races!!Black or African American and American Indian and Alaska Native,Race - Black or African American and American Indian and Alaska Native,DP05_0062E,DP05_0057E,DP05_0057E,DP05_0057E
-Estimate!!HISPANIC OR LATINO AND RACE!!Total population,Race - Hispanic or Latino,DP05_0070E,DP05_0065E,DP05_0065E,DP05_0065E
+Estimate!!SEX AND AGE!!20 to 24 years,Age of 20 to 24 years,DP05_0008E,DP05_0008E,DP05_0008E,DP05_0009E
+Estimate!!SEX AND AGE!!25 to 34 years,Age of 25 to 34 years,DP05_0009E,DP05_0009E,DP05_0009E,DP05_0010E
+Estimate!!SEX AND AGE!!35 to 44 years,Age of 35 to 44 years,DP05_0010E,DP05_0010E,DP05_0010E,DP05_0011E
+Estimate!!SEX AND AGE!!45 to 54 years,Age of 45 to 54 years,DP05_0011E,DP05_0011E,DP05_0011E,DP05_0012E
+Estimate!!SEX AND AGE!!55 to 59 years,Age of 55 to 59 years,DP05_0012E,DP05_0012E,DP05_0012E,DP05_0013E
+Estimate!!SEX AND AGE!!60 to 64 years,Age of 60 to 64 years,DP05_0013E,DP05_0013E,DP05_0013E,DP05_0014E
+Estimate!!SEX AND AGE!!65 to 74 years,Age of 65 to 74 years,DP05_0014E,DP05_0014E,DP05_0014E,DP05_0015E
+Estimate!!SEX AND AGE!!75 to 84 years,Age of 75 to 84 years,DP05_0015E,DP05_0015E,DP05_0015E,DP05_0016E
+Estimate!!SEX AND AGE!!85 years and over,Age of 85 years and over,DP05_0016E,DP05_0016E,DP05_0016E,DP05_0017E
+Estimate!!RACE!!One race!!White,Race - White,DP05_0032E,DP05_0032E,DP05_0032E,DP05_0037E
+Estimate!!RACE!!One race!!Black or African American,Race - Black or African American,DP05_0033E,DP05_0033E,DP05_0033E,DP05_0038E
+Estimate!!RACE!!One race!!American Indian and Alaska Native,Race - American Indian and Alaska Native,DP05_0034E,DP05_0034E,DP05_0034E,DP05_0039E
+Estimate!!RACE!!One race!!Asian,Race - Asian,DP05_0039E,DP05_0039E,DP05_0039E,DP05_0044E
+Estimate!!RACE!!One race!!Native Hawaiian and Other Pacific Islander,Race - Native Hawaiian and Other Pacific Islander,DP05_0047E,DP05_0047E,DP05_0047E,DP05_0052E
+Estimate!!RACE!!One race!!Some other race,Race - Other,DP05_0052E,DP05_0052E,DP05_0052E,DP05_0057E
+Estimate!!RACE!!Total population!!Two or more races,Race - Two or More,DP05_0030E,DP05_0030E,DP05_0030E,DP05_0035E
+Estimate!!HISPANIC OR LATINO AND RACE!!Total population,Race - Hispanic or Latino,DP05_0065E,DP05_0065E,DP05_0065E,DP05_0070E
