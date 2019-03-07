@@ -1,5 +1,5 @@
-Year,Rental Housing Available,Rentals Sales Number Total,Rentals Sales Price Trend,Private Housing Available,Private Sales Number Total,Sales Price Trend Total,Both Available Housing,Both Housing Sales Number Total,Both Sales Price Trend
-2014,"18,141","9,191","57,154","80,137","15,863","3,979,052","98,278",25054,"4,036,206"
-2015,"14,561","8,711","56,901","85,971","21,544","4,390,349","100,532",30255,"4,447,250"
-2016,"15,008","8,540","57,055","75,308","21,328","4,825,235","90,316",29868,"4,882,290"
-2017,"15,375","8,990","56,868","66,236","21,824","5,354,151","81,611",30814,"5,411,019"
+Year,Rental Housing Available,Rentals Sales Number Total,Rentals Sales Price Trend,Private Housing Available,Private Sales Number Total,Private Sales Price Trend Total,Both Available Housing,Both Housing Sales Number Total,Both Sales Price Trend
+2014,18141.0,9191.0,57154.0,80137.0,15863.0,3979052.0,98278.0,25054.0,4036206.0
+2015,14561.0,8711.0,56901.0,85971.0,21544.0,4390349.0,100532.0,30255.0,4447250.0
+2016,15008.0,8540.0,57055.0,75308.0,21328.0,4825235.0,90316.0,29868.0,4882290.0
+2017,15375.0,8990.0,56868.0,66236.0,21824.0,5354151.0,81611.0,30814.0,5411019.0
